@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.23.9",
+    "nodemailer": "^7.0.5"
+  }
+}
