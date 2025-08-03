@@ -54,11 +54,12 @@ const Home = ({ places = [] }) => {
 
   return (
     <section
-      className="min-h-screen px-4 py-12 bg-cover bg-center bg-no-repeat"
-      style={{
-        backgroundImage: `url('/bg.jpg')`, // Use relative path from public/
-      }}
-    >
+  className="min-h-screen px-4 py-12 bg-cover bg-center bg-no-repeat"
+  style={{
+    backgroundImage: `url('/bg.jpg')`,
+  }}
+>
+
       <div className="backdrop-brightness-90 min-h-screen flex flex-col justify-center">
         <div className="max-w-4xl mx-auto text-center text-white">
           <h1 className="text-4xl font-bold mb-6 drop-shadow-lg">Explore Destinations</h1>

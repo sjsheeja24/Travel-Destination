@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const About = () => {
   const places = [
-    { name: 'Paris', image: '/images/paris.webp' },
+    { name: 'Paris', image: '/images/baibeach.jpg' },
     { name: 'Tokyo', image: '/images/tokyo.webp' },
     { name: 'New York', image: '/images/newyork.webp' },
     { name: 'Varkala', image: '/images/varkala.webp' },

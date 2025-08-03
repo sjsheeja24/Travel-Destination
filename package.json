@@ -2,5 +2,8 @@
   "dependencies": {
     "framer-motion": "^12.23.9",
     "nodemailer": "^7.0.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
